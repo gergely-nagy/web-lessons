@@ -28,7 +28,7 @@ React kód debuggolás. (support live-editing)
 
 ### [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
-npm támogatás:
+[npm](https://www.npmjs.com/) támogatás:
 
 - szkriptek futtatása
 - csomagok kezelése
@@ -46,6 +46,10 @@ ES6-os kódrészletek a gyorsabb fejlesztéshez.
 ### [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 
 React kódrészletek ES6-os szintaktikával.
+
+### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+![bracket](../src/bracket.png)
 
 ### [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): 😃
 
