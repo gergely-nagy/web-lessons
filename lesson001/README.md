@@ -15,5 +15,4 @@
 - [Vscode konfigurálás, pluginek telepítése, ...](./gyak001/)
 - [Böngész kompatibilitás (Babel js)](./gyak002/)
 - [GitLab regisztráció](./gyak003/)
-- [Javascript futtatás](./gyak004/)
-- [JS fájlok futtatása](./gyak005/)
+- [JS fájlok futtatása](./gyak004/)
