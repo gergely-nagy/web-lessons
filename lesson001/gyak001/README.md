@@ -12,9 +12,9 @@ Miután megnyitottad a telepített alkalmazást a `View` &rightarrow; `Extension
 
 React Frontend fejlesztéshez ajánlott [VS Code](https://code.visualstudio.com/) bővítmények:
 
-- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost):
+### [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost):
  Megjeleníti a beimportált csomagok méretét a szövegszerkesztőben.
+
  ![import-cost](../src/import-cost.gif)
-- s ad
-sadsd
+
 
