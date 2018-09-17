@@ -13,6 +13,6 @@
 ## Gyakorlat
 
 - [Vscode konfigurálás, pluginek telepítése, ...](./gyak001/)
-- [Böngész kompatibilitás (Babel js)](./gyak002/)
+- [Böngésző kompatibilitás (Babel js)](./gyak002/)
 - [GitLab regisztráció](./gyak003/)
 - [JS fájlok futtatása](./gyak004/)
