@@ -1,19 +1,54 @@
 <h1 align="center" style="border-bottom: none;"> Gyakorlat-002</h1>
 <h3 align="center">Böngésző kompatibilitás (Babel js)</h3>
 
-Babel
+## ES6 újdonságok
 
-A transpiler that can convert ES6 code to ES5 code.
+Próbáljuk ki a következő ES6-os kódrészleteket [Babel js](https://babeljs.io/repl) online fordítóban.
 
-| Verzió  | Kiadás dátuma  | Változások |
-|---|---|---|
-| 1 | '97 június | Első verzió |
-| 2 | '98 június | Szerkesztési változtatások a specifikáció teljes megfeleléséhez az ISO / IEC 16262 nemzetközi szabványnak megfelelően  |
-| 3 | 99' december | reguláris kifejezések, jobb string kezelés, try/catch kivétel kezelés, numerikus kimenet formázása  |
-| 4 | Nem lett kiadva | - |
-| 5 |   |   |
-| 6 |   |   |
-| 7 |   |   |
-| 8 |   |   |
-| 9 |   |   |
+### Arrow function
 
+```javascript
+const materials = [
+  'Hydrogen',
+  'Helium',
+  'Lithium',
+  'Beryllium'
+];
+
+let result = materials.map(material => material.length);
+
+// console.log(result);
+```
+
+### Osztályok
+
+```javascript
+class Rectangle {
+  constructor(height, width) {
+    this.height = height;
+    this.width = width;
+  }
+  
+   get calcArea() {
+    return this.width*this.height;
+   }
+}
+```
+
+### Template Strings
+
+```javascript
+// Basic literal string creation
+`In JavaScript '\n' is a line-feed.`
+
+// Multiline strings
+`In JavaScript this is
+ not legal.`
+
+// String interpolation
+var name = "Bob", time = "today";
+`Hello ${name}, how are you ${time}?`
+
+```
+
+És még sok más ... :)
