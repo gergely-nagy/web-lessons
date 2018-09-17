@@ -52,3 +52,4 @@ var name = "Bob", time = "today";
 ```
 
 És még sok más ... :)
+További példák: [itt](https://github.com/gergely-nagy/es6features)
