@@ -31,6 +31,6 @@ http://kangax.github.io/compat-table/es6/
 
 ### Babel js:
 
-ES6-os kódot "fordít" ES5-ös kóddá ezáltal több (vagy régebbi) böngésző motor is támogatni fogja az új ECMAScript kiadásokat is.
+ES6-os kódot (is) fordít ES5-ös kódra ezáltal több (vagy régebbi) böngésző motor is támogatni fogja az új ECMAScript kiadásokat is.
 
 online editor: [itt](https://babeljs.io/repl)
