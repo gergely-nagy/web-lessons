@@ -3,7 +3,12 @@
 
 ### JavaScript:
 
-### ECMAScript:
+A JavaScript (JS) programozási nyelv egy objektumalapú, prototípus alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak. A JavaScript egy úgynevezett interpretált szkriptnyelv, ami annyit tesz, hogy a programkód egy futtatókörnyezetben (a mi esetünkben ez a böngésző) fut közvetlenül, fordítás nélkül. A program egy speciális programozási interfészen (API) keresztül kommunikál a böngészőprogrammal, illetve a megjelenített weboldallal.
+
+### ECMAScript (ES):
+
+Javascript szabványosítása 1997-től.
+2015-től kiadási év alapján nevezik el őket. (ES6 = ES 2015)
 
 | Verzió  | Kiadás dátuma  | Változások |
 |---|---|---|
@@ -25,12 +30,12 @@ http://kangax.github.io/compat-table/es6/
 
 ![es5](../src/es5-support.png)
 
-#### ES6 támogatás:
+#### ES6 (ES 2015) támogatás:
 
 ![es6](../src/es6-support.png)
 
 ### Babel js:
 
-ES6-os kódot (is) fordít ES5-ös kódra ezáltal több (vagy régebbi) böngésző motor is támogatni fogja az új ECMAScript kiadásokat is.
+ES6-os kódot (is) "fordít" ES5-ös kódra ezáltal több (vagy régebbi) böngésző motor is támogatni fogja az új ECMAScript kiadásokat is.
 
 online editor: [itt](https://babeljs.io/repl)

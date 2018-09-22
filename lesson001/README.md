@@ -5,7 +5,7 @@
 
 - [Szövegszerkesztők frontend fejlesztéshez](./elm001/)
 - [Webböngészők](./elm002/)
-- [Képszerkesztők](./elm003/)
+- [Képszerkesztők, prototípus készítő alkalmazások](./elm003/)
 - [Verziókezelők](./elm004/)
 - [An automation system, like Grunt or Gulp](./elm005/)
 
@@ -14,5 +14,3 @@
 
 - [Vscode konfigurálás, pluginek telepítése, ...](./gyak001/)
 - [Böngésző kompatibilitás (Babel js)](./gyak002/)
-- [GitLab regisztráció](./gyak003/)
-- [JS fájlok futtatása](./gyak004/)

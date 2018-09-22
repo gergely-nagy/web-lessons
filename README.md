@@ -7,7 +7,7 @@
 ## Tartalom
 
 - [Fejlesztőeszközök](./lesson001/)
-- Git verziókezelő
+- [Git verziókezelő](./lesson002/)
 - HTML alapok
 - CSS alapok
 - Javascript alapok
