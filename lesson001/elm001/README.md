@@ -24,7 +24,7 @@ Frontend fejlesztéshez akár egy egyszerű szövegszerkesztő alkalmazás is ha
 - [Sublime](https://www.sublimetext.com/)
 - [Brackets](http://brackets.io/)
 - [Atom](https://atom.io/)
-- [Visual Studio Code](https://code.visualstudio.com/git)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Hibrid szerkesztők:
 
