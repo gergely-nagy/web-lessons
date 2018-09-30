@@ -33,5 +33,5 @@ Frontend fejlesztéshez akár egy egyszerű szövegszerkesztő alkalmazás is ha
 
 ### Online szövegszerkesztők:
 
-- [Cloud 9](https://aws.amazon.com/cloud9/?origin=c9io)
+- [Cloud 9](https://aws.amazon.com/cloud9/)
 - [Codeanywhere](https://codeanywhere.com/)
