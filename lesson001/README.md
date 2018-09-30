@@ -7,7 +7,6 @@
 - [Webböngészők](./elm002/)
 - [Képszerkesztők, prototípus készítő alkalmazások](./elm003/)
 - [Verziókezelők](./elm004/)
-- [An automation system, like Grunt or Gulp](./elm005/)
 
 
 ## Gyakorlat
