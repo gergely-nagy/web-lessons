@@ -6,6 +6,7 @@
 **Frontend** fejlesztés okatázására szánt gyakorlatok.
 ## Tartalom
 
+- [Cél](./lesson000/)
 - [Fejlesztőeszközök](./lesson001/)
 - [Git verziókezelő](./lesson002/)
 - HTML alapok
